@@ -1,6 +1,8 @@
 # anime
 The repo that everyone deserves
 
+![./uwuntu.png](./uwuntu.png)
+
 Yes, this contains all my background images.
 
 ## Sources
